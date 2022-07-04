@@ -6,3 +6,5 @@
 - 📫 [Website](https://kharitonovegor.xyz) | [Email](mailto:ega.khar@gmail.com)
 
 [<img src="https://www.codewars.com/users/kharitonov-egor/badges/small">](https://www.codewars.com/users/kharitonov-egor)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kharitonov-egor?theme=dark&font=Maitree)
