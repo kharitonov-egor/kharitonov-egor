@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: <a href="https://github.com/kharitonov-egor/latex-math" tagret="_blank">latex-math</a> and <a href="https://github.com/kharitonov-egor/floridawrittentest.xyz" tagret="_blank">floridawrittentest.xyz</a>
 - 👨‍🎓 I’m currently learning: FrontEnd
-- 📫 [Website](https://kharitonovegor.xyz) | [Email](mailto:ega.khar@gmail.com)
+- 📫 [Website](https://kharitonovegor.com) | [Email](mailto:ega.khar@gmail.com)
 
 <details close="true">
   <summary><b>:gear: &nbsp;Coding sites statistic</b></summary>
