@@ -4,7 +4,7 @@ I want to program stuff
 
 - 👨‍💻 I’m currently working on: getting into USA university
 - 👨‍🎓 I’m currently learning: SAT exam
-- 📫 [Website](https://kharitonovegor.com) | [Email](mailto:ega.khar@gmail.com)
+- 📫 [kharitonovegor.com](https://kharitonovegor.com) | [ega.khar@gmail.com](mailto:ega.khar@gmail.com)
 
 ### 📝 [My CV](https://kharitonovegor.com/cv.pdf) 
 
@@ -16,4 +16,6 @@ I want to program stuff
   [<img src="https://www.codewars.com/users/kharitonov-egor/badges/small">](https://www.codewars.com/users/kharitonov-egor)
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/kharitonov-egor?theme=dark&font=Maitree)
+  
+  [![wakatime](https://wakatime.com/badge/user/f931925b-f4c5-4a55-97ac-b51912a98888.svg)](https://wakatime.com/@f931925b-f4c5-4a55-97ac-b51912a98888)
 
