@@ -3,7 +3,7 @@
 - 👨‍💻 I’m currently working on: college admissions
 - 📫 [kharitonovegor.com](https://kharitonovegor.com) | [ega.khar@gmail.com](mailto:ega.khar@gmail.com)
 
-[My CV](https://kharitonovegor.com/cv.pdf) 
+[My CV](https://kharitonovegor.com/KharitonovEgorCV.pdf) 
 
 <details close="true">
 
