@@ -1,6 +1,6 @@
 <h1>✌️ Hi, I am Egor Kharitonov</h1>
 
-- 🏫I am Computer Science student at USF in Fall 2025
+- 🏫I am Computer Science student at USF '27
 - 🏢I am SWE Intern @ Stablein Solutions (Tampa, FL startup) 
 - 👨‍💻I am currently learning a bunch of stuff
 
