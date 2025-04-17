@@ -8,7 +8,7 @@
 [Linkedin](https://www.linkedin.com/in/kharitonov-egor) <br>
 [Email me](mailto:egakhar@gmail.com)
 
-My projects 👇
+### My projects 👇
 
  <!--[<img src="https://www.codewars.com/users/kharitonov-egor/badges/small">](https://www.codewars.com/users/kharitonov-egor) -->
 
