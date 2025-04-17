@@ -1,4 +1,4 @@
-<h1>✌️ Hi, I am Egor!</h1>
+<h1>✌️Hi, I am Egor!</h1>
 
 - 🏫I am Computer Science student at University of South Florida '27
 - 🏢SWE Intern @ Stablein Solutions (Tampa, FL startup)
