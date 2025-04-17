@@ -1,13 +1,12 @@
-<h1>✌️ Hi, I am Egor Kharitonov</h1>
+<h1>✌️ Hi, I am Egor!</h1>
 
-- 🏫I am Computer Science student at USF '27
-- 🏢I am SWE Intern @ Stablein Solutions (Tampa, FL startup) 
-- 👨‍💻I am currently learning a bunch of stuff
+- 🏫I am Computer Science student at University of South Florida '27
+- 🏢SWE Intern @ Stablein Solutions (Tampa, FL startup)
+- 💼Vice-President of Coding Club @ Hillsborough Community College
+<!--- 👨‍💻I am currently learning a bunch of stuff-->
 
-More links:
-
-- [kharitonovegor.com](https://kharitonovegor.com)
-- [Linkedin](https://www.linkedin.com/in/kharitonov-egor)
+[Linkedin](https://www.linkedin.com/in/kharitonov-egor) <br>
+[Email me](mailto:egakhar@gmail.com)
 
 My projects 👇
 
