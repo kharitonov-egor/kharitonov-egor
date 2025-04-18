@@ -5,6 +5,8 @@
 - 💼Vice-President of Coding Club @ Hillsborough Community College
 <!--- 👨‍💻I am currently learning a bunch of stuff-->
 
+### Contact me:
+
 [Linkedin](https://www.linkedin.com/in/kharitonov-egor) <br>
 [Email me](mailto:egakhar@gmail.com)
 
