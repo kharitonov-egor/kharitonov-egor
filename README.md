@@ -3,7 +3,7 @@
 - 🏫I am Computer Science student at University of South Florida '27
 - 🏢SWE Intern @ Stablein Solutions (Tampa, FL startup)
 - 💼Vice-President of Coding Club @ Hillsborough Community College
-- 🧠I'am currently learning ML/DL + DSA
+- 🧠I'm currently learning ML/DL + DSA
 <!--- 👨‍💻I am currently learning a bunch of stuff-->
 
 ### Contact me:
