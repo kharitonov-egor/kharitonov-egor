@@ -9,7 +9,7 @@
 ### Contact me:
 
 [Linkedin](https://www.linkedin.com/in/kharitonov-egor) <br>
-[Email me](mailto:egakhar@gmail.com)
+[Email](mailto:egakhar@gmail.com)
 
 ### My projects 👇
 
