@@ -2,8 +2,8 @@
 
 
 - 🏢I'm Software Engineer @ Stablein Solutions (Tampa, FL startup)
-- 🏫Computer Science and Math student at University of South Florida '27
-- 🧑‍🏫Tech Lead @ IEEE Computer Society at University of South Florida
+- 🏫Computer Science and Math student at the University of South Florida '27
+- 🧑‍🏫Tech Lead @ IEEE Computer Society at the  University of South Florida
   
 <!--- 👨‍💻I am currently learning a bunch of stuff-->
 
@@ -28,7 +28,8 @@
 
  <!--[<img src="https://www.codewars.com/users/kharitonov-egor/badges/small">](https://www.codewars.com/users/kharitonov-egor) -->
 
- 
+- [ieeecsusf.com](https://www.ieeecsusf.com) - Official website for IEEE Computer Society at USF, featuring auto-updated events, admin panel with headless CMS for news page 
+- [techxflorida.com](https://www.techxflorida.com) - TechX Florida conference project site
 
  <!-- # [![wakatime](https://wakatime.com/badge/user/f931925b-f4c5-4a55-97ac-b51912a98888.svg)](https://wakatime.com/@f931925b-f4c5-4a55-97ac-b51912a98888) -->
 
