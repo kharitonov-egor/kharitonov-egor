@@ -1,4 +1,4 @@
-<h1>✌️Hi, I am Egor!</h1>
+<h1>Hi, I am Egor! 👋</h1>
 
 
 - 🏢I'm Software Engineer @ Stablein Solutions (Tampa, FL startup)
@@ -12,12 +12,16 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) 
+
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat&logo=convex&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
+
 [![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#) 
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
 ## Contact me:
 
@@ -28,8 +32,8 @@
 
  <!--[<img src="https://www.codewars.com/users/kharitonov-egor/badges/small">](https://www.codewars.com/users/kharitonov-egor) -->
 
-- [ieeecsusf.com](https://www.ieeecsusf.com) - Official website for IEEE Computer Society at USF, featuring auto-updated events, admin panel with headless CMS for news page 
-- [techxflorida.com](https://www.techxflorida.com) - TechX Florida conference project site
+- <img src="assets/ieeecs.png" width="16" height="16"> [ieeecsusf.com](https://www.ieeecsusf.com) - Full-stack website for IEEE Computer Society at USF with auto-synced events, headless CMS, and an admin panel
+- <img src="assets/TechX.png" width="16" height="16"> [techxflorida.com](https://www.techxflorida.com) - Landing site and registration hub for TechX Florida, a tech conference organized by IEEE Computer Society at USF
 
  <!-- # [![wakatime](https://wakatime.com/badge/user/f931925b-f4c5-4a55-97ac-b51912a98888.svg)](https://wakatime.com/@f931925b-f4c5-4a55-97ac-b51912a98888) -->
 
