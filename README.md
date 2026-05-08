@@ -3,7 +3,7 @@
 
 - 🏢I'm Software Engineer @ Stablein Solutions (Tampa, FL startup)
 - 🏫Computer Science and Math student at the University of South Florida '27
-- 🧑‍🏫Tech Lead @ IEEE Computer Society at the  University of South Florida
+- 🧑‍🏫Vice President @ IEEE Computer Society at the  University of South Florida
   
 <!--- 👨‍💻I am currently learning a bunch of stuff-->
 
