@@ -9,7 +9,7 @@
 
 <!--- ![LeetCode Stats](https://leetcard.jacoblin.cool/kharitonov-egor?border=0&radius=15?theme=dark&font=JetBrains%20Mono) -->
 
-**My main stack:**
+**My main skills:**
 
 ![Languages](https://img.shields.io/badge/Languages-2E2E2E?style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
