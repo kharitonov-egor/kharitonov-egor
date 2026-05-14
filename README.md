@@ -42,6 +42,7 @@
 ## My projects that I am actually proud of👇
 
  <!--[<img src="https://www.codewars.com/users/kharitonov-egor/badges/small">](https://www.codewars.com/users/kharitonov-egor) -->
+ <!--[<img src="https://www.codewars.com/users/kharitonov-egor/badges/small">](https://www.codewars.com/users/kharitonov-egor) -->
 
 - <img src="assets/ieeecs.png" width="16" height="16" align="center" style="vertical-align: middle; margin-right: 4px;"> [ieeecsusf.com](https://www.ieeecsusf.com) - Full-stack website for IEEE Computer Society at USF with auto-synced events, headless CMS, and an admin panel
 - <img src="assets/TechX.png" width="16" height="16" align="center" style="vertical-align: middle; margin-right: 4px;"> [techxflorida.com](https://www.techxflorida.com) - Landing site and registration hub for TechX Florida, a tech conference organized by IEEE Computer Society at USF
