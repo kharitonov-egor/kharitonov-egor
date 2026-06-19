@@ -1,7 +1,7 @@
 <h1>Hi, I am Egor! 👋</h1>
 
 
-- 🏢I'm Software Engineer @ Stablein Solutions (Tampa, FL startup)
+- 🏢ex-Software Engineer @ Stablein Solutions (Tampa, FL startup)
 - 🏫Computer Science and Math student at the University of South Florida '27
 - 🧑‍🏫Vice President @ IEEE Computer Society at the  University of South Florida
   
