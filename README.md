@@ -1,9 +1,9 @@
 <h1>Hi, I am Egor! 👋</h1>
 
 
-- 🏢ex-Software Engineer @ Stablein Solutions (Tampa, FL startup)
+- 🏢Lead Software Engineer @ VC Solutions (Tampa FL startup, member of Embarc Collective)
 - 🏫Computer Science and Math student at the University of South Florida '27
-- 🧑‍🏫Vice President @ IEEE Computer Society at the  University of South Florida
+- 🧑‍🏫Vice President @ IEEE Computer Society Student Branch at the University of South Florida
   
 <!--- 👨‍💻I am currently learning a bunch of stuff-->
 
